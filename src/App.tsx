@@ -106,7 +106,7 @@ function App() {
           <a href="#hanh-trinh">Hành trình</a>
           <a href="#bai-hoc">Bài học</a>
           <a href="#thay-doi">Thay đổi</a>
-          <a href="https://github.com/dangkhuong03/journey_recap/blob/main/docs/02_JOURNEY_SOURCE.md" target="_blank" rel="noreferrer">Tài liệu gốc</a>
+          <a href="https://github.com/dangkhuong03/journey_recap/blob/main/docs/02_JOURNEY_SOURCE.md" target="_blank" rel="noreferrer">Storytelling</a>
 
         </nav>
       </header>
