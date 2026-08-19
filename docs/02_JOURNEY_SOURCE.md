@@ -1,6 +1,6 @@
-# Finalized Journey Source
+# Nguồn Storytelling
 
-> Treat this file as the source of truth for meaning. You may compress it into UI copy, but do not distort or invent events.
+> Đây là nguồn sự thật chính cho câu chuyện về hành trình từ giai đoạn bắt đầu đi làm, tham gia AI20K cho đến internship. Có thể rút gọn và chuyển hóa nội dung thành UI copy, infographic hoặc visual narrative, nhưng không được làm sai lệch ý nghĩa, thay đổi sự kiện hoặc tự bổ sung những chi tiết không có trong nguồn.
 
 Tôi bắt đầu hành trình này từ nền tảng là một Software Engineer, từng làm tại một công ty phát triển phần mềm cho khu công nghiệp. Khi đó, mindset của tôi khá điển hình của một engineer: tò mò, thích tìm hiểu công nghệ mới, thuật toán mới và cách các hệ thống hoạt động. Tôi học rất nhiều thứ vì thấy chúng thú vị, nhưng phần lớn mới dừng lại ở mức “biết” hoặc “hiểu”, chưa thực sự có nhiều cơ hội ứng dụng chúng vào các sản phẩm thực tế trong quá trình làm việc.
 
