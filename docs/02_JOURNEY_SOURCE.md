@@ -62,4 +62,4 @@ Nhìn lại hành trình đó, tôi thấy engineering mindset ban đầu của 
 
 Và từ chính quá trình liên tục bổ sung và điều chỉnh mindset đó, tôi bắt đầu nhìn thấy rõ hơn hình ảnh người mình muốn trở thành trong thời gian tới: một người vừa có khả năng development và hiểu hệ thống từ bên trong, vừa có khả năng đánh giá chất lượng, hành vi và giá trị của hệ thống AI từ góc nhìn của con người.
 
-Đó là lý do hiện tại tôi đang đặc biệt quan tâm đến hướng kết hợp giữa **Human Evaluation và Development**.
+Đó là lý do hiện tại tôi đang định hướng quan tâm đến hướng kết hợp giữa **Human Evaluation và Development**.
